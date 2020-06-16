@@ -1,0 +1,3 @@
+i am happy|positive
+i am sad|negative
+i am okay|neutral

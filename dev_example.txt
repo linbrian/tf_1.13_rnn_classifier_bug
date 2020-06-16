@@ -1,0 +1,3 @@
+happy sad|neutral
+so happy|positive
+so sad|negative
